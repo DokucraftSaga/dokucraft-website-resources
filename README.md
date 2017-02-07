@@ -1,1 +1,0 @@
-This repo contains the screenshots and pack information for the website. www.dokucraft.co.uk
